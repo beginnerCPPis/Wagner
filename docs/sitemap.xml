@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://beginnerCPPis.github.io/OCEANS/posts/elephant/</loc>
+    <lastmod>2019-06-11T17:57:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beginnerCPPis.github.io/OCEANS/</loc>
+    <lastmod>2019-06-11T17:57:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beginnerCPPis.github.io/OCEANS/posts/</loc>
+    <lastmod>2019-06-11T17:57:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beginnerCPPis.github.io/OCEANS/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beginnerCPPis.github.io/OCEANS/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
