@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://beginnerCPPis.github.io/OCEANS/posts/</link>
+    <link>https://beginnerCPPis.github.io/Wagner/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2019 17:57:57 +0900</lastBuildDate>
     
-	<atom:link href="https://beginnerCPPis.github.io/OCEANS/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beginnerCPPis.github.io/Wagner/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elephant</title>
-      <link>https://beginnerCPPis.github.io/OCEANS/posts/elephant/</link>
+      <link>https://beginnerCPPis.github.io/Wagner/posts/elephant/</link>
       <pubDate>Tue, 11 Jun 2019 17:57:57 +0900</pubDate>
       
-      <guid>https://beginnerCPPis.github.io/OCEANS/posts/elephant/</guid>
+      <guid>https://beginnerCPPis.github.io/Wagner/posts/elephant/</guid>
       <description>nice to meet you</description>
     </item>
     

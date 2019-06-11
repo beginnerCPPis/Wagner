@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://beginnerCPPis.github.io/OCEANS/posts/elephant/</loc>
+    <loc>https://beginnerCPPis.github.io/Wagner/posts/elephant/</loc>
     <lastmod>2019-06-11T17:57:57+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beginnerCPPis.github.io/OCEANS/</loc>
-    <lastmod>2019-06-11T17:57:57+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://beginnerCPPis.github.io/OCEANS/posts/</loc>
+    <loc>https://beginnerCPPis.github.io/Wagner/</loc>
     <lastmod>2019-06-11T17:57:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://beginnerCPPis.github.io/OCEANS/categories/</loc>
+    <loc>https://beginnerCPPis.github.io/Wagner/posts/</loc>
+    <lastmod>2019-06-11T17:57:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://beginnerCPPis.github.io/OCEANS/tags/</loc>
+    <loc>https://beginnerCPPis.github.io/Wagner/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beginnerCPPis.github.io/Wagner/tags/</loc>
     <priority>0</priority>
   </url>
   
