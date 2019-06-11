@@ -1,0 +1,6 @@
+baseURL = "https://beginnerCPPis.github.io/OCEANS/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "m10c"
+publishDir = "docs"
+canonifyurls = true
